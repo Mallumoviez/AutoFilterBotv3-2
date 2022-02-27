@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚡ Back To Group ⚡', url="https://t.me/AMIGOMOVIES2"
+                                    '⚡ Back To Group ⚡', url="https://t.me/mallu_moviez_group"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Group 📌', url="https://t.me/Mallu_Moviez_Group"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Group 📌', url="https://t.me/Mallu_Moviez_Group"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Movie Group', url='https://t.me/AMIGOMOVIES2'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Movie Group', url='https://t.me/Mallu_Moviez_Group'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/MalluMoviezChannel')
     ],[
-        InlineKeyboardButton('Creator 👑', url='https://t.me/ALAN_007')
+        InlineKeyboardButton('Creator 👑', url='https://t.me/MM_RAGANAR_LATHBROK')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
